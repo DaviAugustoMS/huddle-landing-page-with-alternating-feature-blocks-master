@@ -25,17 +25,29 @@
           <nuxt-link to="">Contact Us</nuxt-link>
         </div>
         <div class="icons">
-          <nuxt-link to="" class="icon-social">
+          <nuxt-link
+            to="https://www.facebook.com/profile.php?id=100054302482051"
+            class="icon-social"
+          >
             <img src="@/assets/facebook.svg" alt="Facebook" />
           </nuxt-link>
-          <nuxt-link to="" class="icon-social">
-            <img src="@/assets/linkedin.svg" alt="Facebook" />
+          <nuxt-link
+            to="https://www.linkedin.com/in/davi-augusto-ms51a65916b/"
+            class="icon-social"
+          >
+            <img src="@/assets/linkedin.svg" alt="LinkedIn" />
           </nuxt-link>
-          <nuxt-link to="" class="icon-social">
-            <img src="@/assets/twitter.svg" alt="Facebook" />
+          <nuxt-link
+            to="https://twitter.com/DaviAugustoMor1"
+            class="icon-social"
+          >
+            <img src="@/assets/twitter.svg" alt="Twitter" />
           </nuxt-link>
-          <nuxt-link to="" class="icon-social">
-            <img src="@/assets/instagram.svg" alt="Facebook" />
+          <nuxt-link
+            to="https://www.instagram.com/davi.augustodev/"
+            class="icon-social"
+          >
+            <img src="@/assets/instagram.svg" alt="Instagram" />
           </nuxt-link>
         </div>
       </div>
